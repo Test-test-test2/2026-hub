@@ -37,7 +37,7 @@ Gros fichiers (vidéos…) : YouTube (non répertorié) / Google Drive, puis col
 ## Teams / Équipes
 | Team | Challenge | Repo |
 |---|---|---|
-| _added by organizers during the event_ | | |
+| Terre à Terre (TEST) | Field Shift: Adapting Farms with NASA Data | [2026-terre-a-terre-test](https://github.com/Test-test-test2/2026-terre-a-terre-test) |
 
 ## Deadline
 **Sunday 15 Nov, 23:59** – README filled in + project submitted on your Space Apps team page (**Project** tab) with your repo link.
