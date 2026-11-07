@@ -19,11 +19,18 @@
 
 ## Never coded? Upload files / Jamais codé ? Déposer des fichiers
 1. Open your team repo → **Add file → Upload files**
+
+   ![Add file → Upload files](img/p1-add-file.png)
 2. Drag your files in (max 25 MB each) / Glissez vos fichiers (25 Mo max chacun)
 3. Click the green **Commit changes** button / Cliquez sur **Commit changes**
 
-Edit text: open `README.md` → ✏️ (pencil) → write → **Commit changes**
-Modifier le texte : ouvrez `README.md` → ✏️ → écrivez → **Commit changes**
+**Edit text / Modifier le texte :** open `README.md` → ✏️ (pencil) → write → **Commit changes…**
+
+![Edit README](img/p2-edit-readme.png)
+
+Keep **“Commit directly to the main branch”** → **Commit changes**. / Gardez « Commit directly… » → **Commit changes**.
+
+![Commit dialog](img/p3-commit.png)
 
 Big files (videos…): upload to YouTube (unlisted) / Google Drive (“anyone with the link”) and paste the link in your README.
 Gros fichiers (vidéos…) : YouTube (non répertorié) / Google Drive, puis collez le lien dans votre README.
