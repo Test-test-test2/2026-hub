@@ -8,13 +8,13 @@
 - **Official event page :** https://www.spaceappschallenge.org/2026/local-events/besancon/
 
 ## Start here (5 min) / Commencez ici
-1. **Create a free GitHub account** → https://github.com/signup (use an email you can open now)
+1. **Create a free GitHub account** → https://github.com/signup (use an email you can open now)  
    **Créez un compte GitHub gratuit**
-2. **Give your username to an organizer** (or fill the sign-up form) → you get an invitation
+2. **Give your username to an organizer** (or fill the sign-up form) → you get an invitation  
    **Donnez votre nom d'utilisateur à un organisateur** → vous recevez une invitation
-3. **Accept the invitation** → https://github.com/orgs/Test-test-test2/invitation (or the email "You've been invited…")
+3. **Accept the invitation** → https://github.com/orgs/Test-test-test2/invitation (or the email "You've been invited…")  
    **Acceptez l'invitation**
-4. **Open your team repo** in the table below and fill in `README.md`
+4. **Open your team repo** in the table below and fill in `README.md`  
    **Ouvrez le dépôt de votre équipe** ci-dessous et remplissez `README.md`
 
 ## Never coded? Upload files / Jamais codé ? Déposer des fichiers
@@ -32,7 +32,7 @@ Keep **“Commit directly to the main branch”** → **Commit changes**. / Gard
 
 ![Commit dialog](img/p3-commit.png)
 
-Big files (videos…): upload to YouTube (unlisted) / Google Drive (“anyone with the link”) and paste the link in your README.
+Big files (videos…): upload to YouTube (unlisted) / Google Drive (“anyone with the link”) and paste the link in your README.  
 Gros fichiers (vidéos…) : YouTube (non répertorié) / Google Drive, puis collez le lien dans votre README.
 
 ## Rules that matter / Règles importantes
@@ -47,5 +47,5 @@ Gros fichiers (vidéos…) : YouTube (non répertorié) / Google Drive, puis col
 | Terre à Terre (TEST) | Field Shift: Adapting Farms with NASA Data | [2026-terre-a-terre-test](https://github.com/Test-test-test2/2026-terre-a-terre-test) |
 
 ## Deadline
-**Sunday 15 Nov, 23:59** – README filled in + project submitted on your Space Apps team page (**Project** tab) with your repo link.
+**Sunday 15 Nov, 23:59** – README filled in + project submitted on your Space Apps team page (**Project** tab) with your repo link.  
 **Dimanche 15 nov., 23h59** – README rempli + projet soumis sur spaceappschallenge.org avec le lien du dépôt.
