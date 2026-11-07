@@ -19,10 +19,10 @@
 3. Drag your files in (max 25 MB each) / Glissez vos fichiers (25 Mo max chacun)
 4. Click the green **Commit changes** button / Cliquez sur le bouton vert **Commit changes**
 
-Edit text: open `README.md` → ✏️ → write → **Commit changes**
+Edit text: open `README.md` → ✏️ → write → **Commit changes**    
 Modifier le texte : ouvrez `README.md` → ✏️ → écrivez → **Commit changes**
 
-Big files (videos, etc.): upload to YouTube / Google Drive and paste the link in your README.
+Big files (videos, etc.): upload to YouTube / Google Drive and paste the link in your README.  
 Gros fichiers (vidéos…) : YouTube / Google Drive, puis collez le lien dans votre README.
 
 ## Teams / Équipes
