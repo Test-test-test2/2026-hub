@@ -5,7 +5,7 @@
 - **Where / Où :** Maison des Étudiants, 36A Av. de l'Observatoire, 25000 Besançon
 - **Official event page :** https://www.spaceappschallenge.org/2026/local-events/besancon/
 
-## Start here (5 min) / Commencez ici
+## Start here / Commencez ici
 1. **Create a free GitHub account** → https://github.com/signup  
    **Créez un compte GitHub gratuit** → https://github.com/signup  
 3. **Fill the sign-up form** → you get an invitation  
